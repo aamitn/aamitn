@@ -23,10 +23,10 @@ Passionate about backend development, I'm a self-taught programmer from India ðŸ
 | ------------- | ------------- |
 !-->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamitn&layout=donut&hide=Tcl&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aamitn&show_icons=true&theme=radical&hide_rank=true&line_height=28" />
 </a>
 
