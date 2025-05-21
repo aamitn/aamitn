@@ -12,7 +12,7 @@ Passionate about backend development, I'm a self-taught programmer from India �
 
 **About me**
 
-- 💼 Data Engineer at :globe_with_meridians: [Amazon](http://amazon.com/) | Co-Founder at :globe_with_meridians: [Bitmutex Technologies](https://bitmutex.com/) | :bookmark_tabs: My [Portfolio](https://aamitn.github.io/)
+- 💼 Co-Founder at :globe_with_meridians: [Bitmutex Technologies](https://bitmutex.com/) | :bookmark_tabs: My [Portfolio](https://aamitn.github.io/)
 - ❤️ Languages of Choice are : <code><img height="28" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>, <code><img height="28" alt="Java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code> and <code><img height="28" alt="C++" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>  
 - :building_construction: Self Maintained Git-Hosting at [Bitmutex Forge](https://forge.bitmutex.com/explore/repos) 
 - 🔳 Free Public Collaboration Whiteboard at [BM Board](https://space.bitmutex.com/s/dkg4gtgorA9GM7s)
