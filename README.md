@@ -47,7 +47,7 @@ Passionate about backend development, I'm a self-taught programmer from India ğŸ
 ![](https://github-profile-trophy.vercel.app/?username=aamitn&theme=aura&no-frame=false&no-bg=true&margin-w=4)
 
 ### ğŸ” Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aamitn&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=aamitn&limit=25&theme=dark&combine_all_yearly_contributions=false)
 
 ---
 [![](https://komarev.com/ghpvc/?username=aamitn&icon=0&color=blue)](https://visitcount.itsvg.in)
