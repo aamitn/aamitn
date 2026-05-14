@@ -21,6 +21,18 @@ Passionate about backend development, I'm a self-taught programmer from India ğŸ
 
 
 ## ğŸŒ Socials:
+**Catch Me At:**
+
+<a href="https://discord.com/users/146662188122243072">
+  <img align="left" alt="Amit Nandi | Discord" src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/aamitn/">
+  <img align="left" alt="Amit Nandi | Linkedin" src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/linkedin.svg" />
+</a>
+<a href="https://gitlab.com/aamitn">
+  <img align="left" alt="Amit Nandi | Gitlab" src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/gitlab.svg" />
+</a>
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitnandileo@gmail.com) 
 
 # ğŸ’» Tech Stack:
@@ -39,15 +51,4 @@ Passionate about backend development, I'm a self-taught programmer from India ğŸ
 ---
 [![](https://komarev.com/ghpvc/?username=aamitn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Catch Me At:**
-
-<a href="https://discord.com/users/146662188122243072">
-  <img align="left" alt="Amit Nandi | Discord" src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/aamitn/">
-  <img align="left" alt="Amit Nandi | Linkedin" src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/linkedin.svg" />
-</a>
-<a href="https://gitlab.com/aamitn">
-  <img align="left" alt="Amit Nandi | Gitlab" src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/gitlab.svg" />
-</a>
 
