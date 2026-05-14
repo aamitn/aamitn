@@ -21,7 +21,6 @@ Passionate about backend development, I'm a self-taught programmer from India ğŸ
 
 
 ## ğŸŒ Socials:
-**Catch Me At:**
 
 <a href="https://discord.com/users/146662188122243072">
   <img align="left" alt="Amit Nandi | Discord" src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/discord.svg" />
