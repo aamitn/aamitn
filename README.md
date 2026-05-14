@@ -50,6 +50,4 @@ Passionate about backend development, I'm a self-taught programmer from India ðŸ
 ![](https://github-contributor-stats.vercel.app/api?username=aamitn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=aamitn&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+[![](https://komarev.com/ghpvc/?username=aamitn&icon=0&color=blue)](https://visitcount.itsvg.in)
